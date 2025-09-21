@@ -4,3 +4,4 @@ duckdb==0.7.1
 minio==7.1.13
 pandas==1.5.3
 streamlit==1.23.0
+flask-appbuilder>=4.8.1 # not directly required, pinned by Snyk to avoid a vulnerability
