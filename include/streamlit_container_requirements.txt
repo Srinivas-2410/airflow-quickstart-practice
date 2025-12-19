@@ -1,3 +1,4 @@
 streamlit==1.23.0
 duckdb==0.7.1
 pandas==1.5.3
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
